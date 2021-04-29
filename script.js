@@ -9,17 +9,17 @@ function image () {
 }
 
 function text () {
-  document.getElementById('text').innerHTML = "Iron Man"
+  document.getElementById('text').innerHTML = 'Iron Man'
 }
 
 function hide () {
-  document.getElementById('text').style.display = "none"
+  document.getElementById('text').style.display = 'none'
 }
 
 function show () {
-  document.getElementById('text').style.display = "block"
+  document.getElementById('text').style.display = 'block'
 }
 
 function background () {
-  document.body.style.backgroundColor = "darkred"
+  document.body.style.backgroundColor = 'darkred'
 }
