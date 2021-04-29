@@ -5,7 +5,7 @@ document.getElementById('show').addEventListener('click', show)
 document.getElementById('bg').addEventListener('click', background)
 
 function image () {
-  document.getElementById('picture').src = "images/iron-man.jpg"
+  document.getElementById('picture').src = 'images/iron-man.jpg'
 }
 
 function text () {
